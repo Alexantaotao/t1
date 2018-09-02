@@ -9,3 +9,6 @@ def print_fun():
 	
 def main_fun():
 	pass
+
+def go_company():
+	pass
